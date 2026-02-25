@@ -295,6 +295,9 @@ export default function Home() {
             <li style={{ marginTop: "10px" }}>
               <a href="tel:+919860990532" style={{ color: "inherit", textDecoration: "none" }}>📞 +91 98609 90532</a>
             </li>
+            <li>
+              <a href="tel:+919881201233" style={{ color: "inherit", textDecoration: "none" }}>📞 +91 98812 01233</a>
+            </li>
           </ul>
         </div>
         <div className="footer-bottom">
