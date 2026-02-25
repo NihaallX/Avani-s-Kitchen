@@ -67,7 +67,7 @@ export default function Home() {
           <div className="section-header">
             <h2 className="section-title">CHEF'S PICKS</h2>
             <a
-              href="https://www.zomato.com/pune/avanis-kitchen-yewale-wadi/order"
+              href="https://www.zomato.com/pune/avanis-kitchen-yewale-wadi/menu"
               target="_blank"
               rel="noopener noreferrer"
               className="text-sm md:text-base"
