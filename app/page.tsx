@@ -40,8 +40,7 @@ export default function Home() {
               </a>
             </div>
           </div>
-          <div className="hero-img" style={{ backgroundImage: "none", backgroundColor: "#f0e6d8", display: "flex", alignItems: "center", justifyContent: "center" }}>
-            <span className="placeholder-text">PHOTO COMING SOON</span>
+          <div className="hero-img" style={{ backgroundImage: "url('/cholebhature1st-draft.png')", backgroundSize: "cover", backgroundPosition: "center" }}>
             <div className="sticker">
               HOME
               <br />
