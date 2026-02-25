@@ -224,6 +224,35 @@ export default function Home() {
           </div>
         </section>
 
+        <section className="section-padding testimonials-section">
+          <div className="section-header">
+            <h2 className="section-title">WHAT PEOPLE SAY</h2>
+            <span style={{ fontWeight: 800, fontSize: "14px", textTransform: "uppercase" }}>4.0★ on Zomato</span>
+          </div>
+          <div className="testimonials-grid">
+            <div className="testimonial-card">
+              <div className="testimonial-stars">★★★★★</div>
+              <p className="testimonial-text">
+                "Genuinely feels like a home-cooked meal. The rajma chawal is spot on — rich, flavourful, and the rice is perfectly fluffy. Highly recommend!"
+              </p>
+              <div className="testimonial-author">
+                <span className="testimonial-name">Nihal Pardeshi</span>
+                <span className="testimonial-source">Word of Mouth</span>
+              </div>
+            </div>
+            <div className="testimonial-card">
+              <div className="testimonial-stars">★★★★★</div>
+              <p className="testimonial-text">
+                "Ordered rotis and double egg omlet — didn't disappoint. Perfect lunch for a bachelor!"
+              </p>
+              <div className="testimonial-author">
+                <span className="testimonial-name">Gaurav Guddeti</span>
+                <span className="testimonial-source">WhatsApp</span>
+              </div>
+            </div>
+          </div>
+        </section>
+
         <section className="section-padding">
           <h2 className="section-title" style={{ marginBottom: "40px", textAlign: "center" }}>OUR FOOD</h2>
           <div className="social-grid">
