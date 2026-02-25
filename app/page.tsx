@@ -1,19 +1,10 @@
+import Header from "@/components/Header"
+
 export default function Home() {
   return (
     <>
       <div className="grain-overlay" />
-
-      <header className="header">
-        <div className="logo">AVANI'S<br />KITCHEN</div>
-        <nav>
-          <a href="#menu">Menu</a>
-          <a href="#about">Our Story</a>
-          <a href="#contact">Contact</a>
-        </nav>
-        <a href="https://www.zomato.com/pune/avanis-kitchen-yewale-wadi/order" target="_blank" rel="noopener noreferrer">
-          <button className="btn-cta">Order Now</button>
-        </a>
-      </header>
+      <Header />
 
       <main>
         <section className="hero">
